@@ -1,0 +1,11 @@
+CREATE DATABASE PROJECT2;
+
+USE PROJECT2
+
+DROP TABLE Prisoners 
+
+DROP TABLE measurement 
+
+SHOW TABLES
+
+SELECT * FROM Prisoners; 
